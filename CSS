@@ -1,0 +1,38 @@
+body {
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+h1{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 480px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+input, select {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#principal {
+    margin-left: 60px;
+}
+
+#rate {
+    margin-left: 24px;
+}
+
+#years {
+    margin-left: 28px;
+}
+
+footer {
+    margin-top: 2rem;
+}
